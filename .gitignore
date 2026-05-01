@@ -1,7 +1,31 @@
+# Python
 __pycache__/
 *.py[cod]
-.venv/
-.env
+*$py.class
+*.egg-info/
 .pytest_cache/
 .ruff_cache/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# uv
 uv.lock

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "krixi",
+    "name": "Krixi",
+    "title": "Tinh Linh May",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": "https://liideas.gtimg.com/AOV/heroes/krixi.png"
+  },
+  {
+    "id": "raz",
+    "name": "Raz",
+    "title": "Cuồng Lôi",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "veera",
+    "name": "Veera",
+    "title": "Nữ Hoàng Bóng Đêm",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "violet",
+    "name": "Violet",
+    "title": "Vũ Công Tử Thần",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "tel-annas",
+    "name": "Tel'Annas",
+    "title": "Mũi Tên Bóng Đêm",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "yorn",
+    "name": "Yorn",
+    "title": "Cung Thủ Bão Cát",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "valhein",
+    "name": "Valhein",
+    "title": "Thợ Săn Quỷ",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "elsu",
+    "name": "Elsu",
+    "title": "Xạ Thủ Đường Phố",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "lindis",
+    "name": "Lindis",
+    "title": "Cung Thủ Mặt Trăng",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "capheny",
+    "name": "Capheny",
+    "title": "Bão Đạn Mãnh Liệt",
+    "role": "MARKSMAN",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "tulen",
+    "name": "Tulen",
+    "title": "Pháp Sư Sấm Sét",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "lauriel",
+    "name": "Lauriel",
+    "title": "Thiên Thần Phán Xét",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "ilumia",
+    "name": "Ilumia",
+    "title": "Thiên Sứ Ánh Sáng",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "liliana",
+    "name": "Liliana",
+    "title": "Mèo Phù Thủy",
+    "role": "MAGE",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "mina",
+    "name": "Mina",
+    "title": "Nguyệt Nữ",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "preyta",
+    "name": "Preyta",
+    "title": "Quái Dị",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "natalya",
+    "name": "Natalya",
+    "title": "Mèo Sấm Sét",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "kahlii",
+    "name": "Kahlii",
+    "title": "Mộc Nhân",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "azzenka",
+    "name": "Azzen'Ka",
+    "title": "Pháp Sư Cát",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "dirak",
+    "name": "Dirak",
+    "title": "Mắt Bóng Tối",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "zata",
+    "name": "Zata",
+    "title": "Sát Thủ Bóng Đêm",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "nakroth",
+    "name": "Nakroth",
+    "title": "Lưỡi Hái Tử Thần",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly",
+    "title": "Sát Thủ Bóng Đêm",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "murad",
+    "name": "Murad",
+    "title": "Sát Thủ Cuồng Loạn",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "quillen",
+    "name": "Quillen",
+    "title": "Bóng Tử Thần",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "wukong",
+    "name": "Wukong",
+    "title": "Tề Thiên Đại Thánh",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "zuka",
+    "name": "Zuka",
+    "title": "Cuồng Trảm",
+    "role": "ASSASSIN",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "ryoma",
+    "name": "Ryoma",
+    "title": "Quỷ Kiếm Sĩ",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "qi",
+    "name": "Qi",
+    "title": "Truyền Nhân Thái Cực",
+    "role": "WARRIOR",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "yena",
+    "name": "Yena",
+    "title": "Trảm Long Kiếm",
+    "role": "WARRIOR",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "florentino",
+    "name": "Florentino",
+    "title": "Quý Tộc Thanh Lịch",
+    "role": "WARRIOR",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "arthur",
+    "name": "Arthur",
+    "title": "Đội Trưởng Tinh Anh",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "lubu",
+    "name": "Lữ Bố",
+    "title": "Chiến Thần",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "errol",
+    "name": "Errol",
+    "title": "Quỷ Kiếm Tử Thần",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "omen",
+    "name": "Omen",
+    "title": "Hắc Long Quân Vương",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "thane",
+    "name": "Thane",
+    "title": "Đội Trưởng Bão Tố",
+    "role": "TANK",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "ormarr",
+    "name": "Ormarr",
+    "title": "Lãnh Chúa Sấm Sét",
+    "role": "TANK",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "toro",
+    "name": "Toro",
+    "title": "Đấu Sĩ Cuồng Nộ",
+    "role": "TANK",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "grakk",
+    "name": "Grakk",
+    "title": "Móc Câu Tử Thần",
+    "role": "TANK",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "baldum",
+    "name": "Baldum",
+    "title": "Lữ Hành Băng Giá",
+    "role": "TANK",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "moren",
+    "name": "Moren",
+    "title": "Phù Thủy May Mắn",
+    "role": "SUPPORT",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "title": "Phù Thủy Nhỏ",
+    "role": "SUPPORT",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "rouie",
+    "name": "Rouie",
+    "title": "Bóng Đêm Hỗn Loạn",
+    "role": "SUPPORT",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "annette",
+    "name": "Annette",
+    "title": "Cô Bé Quàng Khăn Đỏ",
+    "role": "SUPPORT",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "krizzix",
+    "name": "Krizzix",
+    "title": "Trợ Thủ Đắc Lực",
+    "role": "SUPPORT",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "zip",
+    "name": "Zip",
+    "title": "Bé Bự",
+    "role": "SUPPORT",
+    "lane": "sp",
+    "avatar_url": null
+  },
+  {
+    "id": "chaugong",
+    "name": "Châu Du",
+    "title": "Đại Đô Đốc",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  },
+  {
+    "id": "lubuqing",
+    "name": "Lữ Bố",
+    "title": "Chiến Thần Phương Đông",
+    "role": "WARRIOR",
+    "lane": "ad",
+    "avatar_url": null
+  },
+  {
+    "id": "luna",
+    "name": "Luna",
+    "title": "Vũ Khúc Vầng Trăng",
+    "role": "MAGE",
+    "lane": "jungle",
+    "avatar_url": null
+  },
+  {
+    "id": "diaochan",
+    "name": "Điêu Thuyền",
+    "title": "Mỹ Nhân Tiên Tử",
+    "role": "MAGE",
+    "lane": "mid",
+    "avatar_url": null
+  }
+]
